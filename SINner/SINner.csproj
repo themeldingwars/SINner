@@ -11,4 +11,9 @@
     <None Remove="Lib\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="Lib\FauFau\FauFau\FauFau.csproj" />
+    <ProjectReference Include="Lib\FauFau\FauFau\Lib\Bitter\Bitter\Bitter.csproj" />
+  </ItemGroup>
+
 </Project>
