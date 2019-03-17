@@ -1,0 +1,9 @@
+SINner/[Bb]in/
+SINner/[Oo]bj/
+packages/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.sdf
+*.opensdf
