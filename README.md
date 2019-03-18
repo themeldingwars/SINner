@@ -16,7 +16,7 @@ git clone --recurse-submodules https://github.com/themeldingwars/SINner.git
 
 ```
 git clone https://github.com/themeldingwars/SINner.git
-cd SDBrowser
+cd SINner
 git submodule update --init --recursive
 ```
 
