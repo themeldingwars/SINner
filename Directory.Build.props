@@ -1,0 +1,12 @@
+<Project>
+    <PropertyGroup Condition="'$(MSBuildProjectName)' != 'FauFau' And
+                              '$(MSBuildProjectName)' != 'Bitter'">
+        <Company>The Melding Wars</Company>
+        <Product>SINner</Product>
+        <Authors>The Melding Wars</Authors>
+        <Copyright>Copyright © 2019-2026 The Melding Wars</Copyright>
+        <NeutralLanguage>en-US</NeutralLanguage>
+        <RepositoryUrl>https://github.com/themeldingwars/SINner</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+    </PropertyGroup>
+</Project>
